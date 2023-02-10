@@ -33,7 +33,10 @@ A non-exhaustive list of some cloud optimized format common in the geospatial fi
 
 ### How it works
 
-![](images/copc-vlr-chunk-table-illustration.png)
+|
+![](images/copc-vlr-chunk-table-illustration.png) |
+| :---: |
+| Image Credit - [COPC](https://copc.io/) | 
 
 Usually there's a index, for spatial data it's usually a spatial index. Using this index you can locate the data you want quickly, and read it. For a single file format the index is at the beginning (aka Header), for a multi format file, it's a file that lists all the other files.
 
