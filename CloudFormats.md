@@ -43,4 +43,5 @@ For the most part, yes!!!
 COG, COPC, Flatgeobuf, EPT should all just work.
 
 GeoParquet depends on a new enough QGIS and GDAL. [Details](https://bertt.wordpress.com/2022/12/20/geoparquet-geospatial-vector-data-using-apache-parquet/)
+
 Zarr it depends on the layout inside the file.
