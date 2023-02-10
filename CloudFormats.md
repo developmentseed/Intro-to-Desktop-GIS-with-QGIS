@@ -33,8 +33,7 @@ A non-exhaustive list of some cloud optimized format common in the geospatial fi
 
 ### How it works
 
-|
-![](images/copc-vlr-chunk-table-illustration.png) |
+| ![](images/copc-vlr-chunk-table-illustration.png) |
 | :---: |
 | Image Credit - [COPC](https://copc.io/) | 
 
