@@ -5,6 +5,6 @@ Start With
 
 For some a little bit more depth
 - [Projections]()
-- [Raster]() concepts, formats, and relation to Remote Sensing (Earth Observation).
-- [Cloud Formats](), the new hot take on storing and using data over the internet.
-- [Topology] the magic of how objects in vector formats relate to each other.
+- [Raster](Rasters.md) concepts, formats, and relation to Remote Sensing (Earth Observation).
+- [Cloud Formats](CloudFormats.md), the new hot take on storing and using data over the internet.
+- [Topology](Topology.md) the magic of how objects in vector formats relate to each other.
